@@ -1,0 +1,4 @@
+[17-Jan-2023 06:56:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_header() in /home/kuwaitlankancart/public_html/wp-content/themes/twentytwenty/index.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/themes/twentytwenty/index.php on line 17

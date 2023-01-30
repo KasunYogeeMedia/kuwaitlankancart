@@ -1,0 +1,27 @@
+/*
+ Theme Name:   Vegan Child
+ Theme URI:    http://wordpress.com
+ Description:  Vegan Child Theme
+ Author:       ApusTheme
+ Author URI:   http://apusthemes.com
+ Template:     vegan
+ Version:      1.0.0
+ Text Domain:  vegan-child
+*/
+
+.widget-features-box .fbox-content .description{
+	font-size:18px;
+}
+
+.feature-box.media .fbox-content .description{
+	font-size:18px;
+}
+
+#page-id-3217 .apus-breadscrumb .wrapper-breads {
+    min-height: 0px;
+    position: relative;
+}
+
+.product-block .image img{
+	width:100%;
+}

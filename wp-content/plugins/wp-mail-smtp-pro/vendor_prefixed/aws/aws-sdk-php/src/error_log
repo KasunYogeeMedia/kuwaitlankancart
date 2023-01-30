@@ -1,0 +1,1 @@
+[20-Dec-2022 07:24:45 UTC] PHP Fatal error:  Namespace declaration statement has to be the very first statement or after any declare call in the script in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-mail-smtp-pro/vendor_prefixed/aws/aws-sdk-php/src/PhpHash.php on line 4

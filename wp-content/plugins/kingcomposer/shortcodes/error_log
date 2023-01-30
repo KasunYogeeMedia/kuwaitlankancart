@@ -1,0 +1,4 @@
+[20-Dec-2022 07:24:42 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function apply_filters() in /home/kuwaitlankancart/public_html/wp-content/plugins/kingcomposer/shortcodes/kc_counter_box.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/kingcomposer/shortcodes/kc_counter_box.php on line 5

@@ -1,0 +1,347 @@
+[17-Sep-2022 11:59:29 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:59:29 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:59:29 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:59:29 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 11:59:29 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Sep-2022 12:00:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[18-Sep-2022 09:14:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 09:14:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 09:14:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 09:14:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 09:14:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 09:14:44 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[18-Sep-2022 10:51:05 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 10:51:05 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 10:51:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 10:51:05 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 10:51:05 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[18-Sep-2022 10:53:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[27-Sep-2022 23:40:22 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Sep-2022 23:40:22 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Sep-2022 23:40:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Sep-2022 23:40:22 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Sep-2022 23:40:22 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Sep-2022 23:42:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[01-Oct-2022 00:59:47 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 00:59:47 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 00:59:47 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 00:59:47 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 00:59:47 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 01:01:08 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[01-Oct-2022 21:52:40 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 21:52:40 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 21:52:40 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 21:52:40 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 21:52:40 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Oct-2022 21:53:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[08-Oct-2022 05:51:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 05:51:55 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 05:51:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 05:51:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 05:51:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Oct-2022 05:52:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[10-Oct-2022 11:46:27 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 11:46:27 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 11:46:27 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 11:46:27 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 11:46:27 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Oct-2022 11:47:07 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[16-Oct-2022 10:45:48 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Oct-2022 10:45:48 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Oct-2022 10:45:48 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Oct-2022 10:45:48 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Oct-2022 10:45:48 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Oct-2022 10:45:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[17-Oct-2022 13:16:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 13:16:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 13:16:44 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 13:16:44 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 13:16:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Oct-2022 13:16:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[24-Oct-2022 07:07:14 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Oct-2022 07:07:14 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Oct-2022 07:07:14 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Oct-2022 07:07:14 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Oct-2022 07:07:14 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Oct-2022 07:08:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[26-Oct-2022 15:29:32 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 15:29:32 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 15:29:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 15:29:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 15:29:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Oct-2022 15:31:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[27-Oct-2022 20:06:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 20:06:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 20:06:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 20:06:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 20:06:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Oct-2022 20:06:49 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[28-Oct-2022 10:35:15 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 10:35:15 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 10:35:15 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 10:35:15 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 10:35:15 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[28-Oct-2022 10:35:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[29-Oct-2022 00:44:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 00:44:16 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 00:44:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 00:44:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 00:44:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 00:44:43 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[29-Oct-2022 05:10:26 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 05:10:26 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 05:10:26 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 05:10:26 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 05:10:26 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Oct-2022 05:10:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[31-Oct-2022 13:04:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[31-Oct-2022 13:04:33 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[31-Oct-2022 13:04:33 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[31-Oct-2022 13:04:33 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[31-Oct-2022 13:04:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[31-Oct-2022 13:06:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[01-Nov-2022 21:07:32 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 21:07:32 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 21:07:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 21:07:32 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 21:07:32 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Nov-2022 21:08:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[06-Nov-2022 03:52:44 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 03:52:44 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 03:52:44 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 03:52:44 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 03:52:44 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Nov-2022 03:53:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[07-Nov-2022 18:55:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 18:55:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 18:55:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 18:55:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 18:55:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[07-Nov-2022 18:56:14 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[08-Nov-2022 20:53:41 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 20:53:41 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 20:53:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 20:53:41 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 20:53:41 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[08-Nov-2022 20:54:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[10-Nov-2022 05:43:24 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 05:43:24 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 05:43:24 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 05:43:24 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 05:43:24 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[10-Nov-2022 05:44:02 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[12-Nov-2022 20:39:20 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 20:39:20 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 20:39:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 20:39:20 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 20:39:20 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[12-Nov-2022 20:40:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[14-Nov-2022 08:33:33 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 08:33:33 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 08:33:33 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 08:33:33 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 08:33:33 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Nov-2022 08:34:19 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[16-Nov-2022 05:49:36 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 05:49:36 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 05:49:36 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 05:49:36 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 05:49:36 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[16-Nov-2022 05:49:58 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[17-Nov-2022 08:24:07 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 08:24:07 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 08:24:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 08:24:07 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 08:24:07 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 08:24:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[17-Nov-2022 21:41:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 21:41:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 21:41:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 21:41:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 21:41:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[17-Nov-2022 21:42:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[24-Nov-2022 20:14:26 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Nov-2022 20:14:26 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Nov-2022 20:14:26 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Nov-2022 20:14:26 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Nov-2022 20:14:26 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[24-Nov-2022 20:14:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[26-Nov-2022 20:42:10 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Nov-2022 20:42:10 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Nov-2022 20:42:10 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Nov-2022 20:42:10 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Nov-2022 20:42:10 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[26-Nov-2022 20:42:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[27-Nov-2022 21:27:28 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Nov-2022 21:27:28 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Nov-2022 21:27:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Nov-2022 21:27:28 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Nov-2022 21:27:28 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[27-Nov-2022 21:28:01 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[29-Nov-2022 18:15:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 18:15:55 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 18:15:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 18:15:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 18:15:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[29-Nov-2022 18:16:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[30-Nov-2022 08:00:30 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[30-Nov-2022 08:00:31 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[30-Nov-2022 08:00:31 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[30-Nov-2022 08:00:31 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[30-Nov-2022 08:00:31 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[30-Nov-2022 08:01:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[01-Dec-2022 16:16:55 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 16:16:55 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 16:16:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 16:16:55 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 16:16:55 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[01-Dec-2022 16:17:26 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[01-Dec-2022 23:13:54 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/compat.php on line 337
+[01-Dec-2022 23:13:54 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/compat.php on line 337
+[01-Dec-2022 23:13:54 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/compat.php on line 337
+[01-Dec-2022 23:13:54 UTC] PHP Warning:  require(ABSPATHWPINC/sodium_compat/autoload.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/compat.php on line 337
+[01-Dec-2022 23:13:54 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/sodium_compat/autoload.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/compat.php on line 337
+[22-Dec-2022 04:08:56 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[22-Dec-2022 04:08:56 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[22-Dec-2022 04:08:56 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[22-Dec-2022 04:08:56 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[22-Dec-2022 06:30:36 UTC] PHP Deprecated:  Function create_function() is deprecated in /home/kuwaitlankancart/public_html/wp-includes/class-transient-embed-json.php on line 69
+[23-Dec-2022 19:13:11 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[23-Dec-2022 19:13:11 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[23-Dec-2022 19:13:11 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[23-Dec-2022 19:13:11 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[23-Dec-2022 19:13:29 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[05-Jan-2023 07:14:42 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jan-2023 07:14:42 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jan-2023 07:14:42 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jan-2023 07:14:42 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[05-Jan-2023 07:15:10 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[06-Jan-2023 06:10:49 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Jan-2023 06:10:49 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Jan-2023 06:10:49 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Jan-2023 06:10:49 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[06-Jan-2023 06:11:27 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[14-Jan-2023 16:28:57 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jan-2023 16:28:57 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jan-2023 16:28:57 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jan-2023 16:28:57 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[14-Jan-2023 16:29:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12
+[19-Jan-2023 22:26:16 UTC] PHP Warning:  Use of undefined constant ABSPATH - assumed 'ABSPATH' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jan-2023 22:26:16 UTC] PHP Warning:  Use of undefined constant WPINC - assumed 'WPINC' (this will throw an Error in a future version of PHP) in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jan-2023 22:26:16 UTC] PHP Warning:  require(ABSPATHWPINC/class-requests.php): failed to open stream: No such file or directory in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jan-2023 22:26:16 UTC] PHP Fatal error:  require(): Failed opening required 'ABSPATHWPINC/class-requests.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/kuwaitlankancart/public_html/wp-includes/class-wp-http.php on line 11
+[19-Jan-2023 22:26:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function get_the_block_template_html() in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php:12
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/template-canvas.php on line 12

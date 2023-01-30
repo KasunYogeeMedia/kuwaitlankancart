@@ -1,0 +1,252 @@
+/*
+Theme Name: Vegan
+Theme URI: https://www.apusthemes.com/themes/vegan-food/
+Author: ApusTheme
+Author URI: https://apusthemes.com/
+Description: Vegan is clean theme, it's used Apus Framework.
+Version: 5.2.26
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Tags: accessibility-ready, custom-background, custom-colors, custom-header, custom-menu, editor-style, featured-images, microformats, post-formats, rtl-language-support, sticky-post, threaded-comments, translation-ready
+Text Domain: vegan
+
+This theme, like WordPress, is licensed under the GPL.
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+img{
+    max-width: 100%;
+    height:auto;
+ }
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+    text-align: center;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 5px 3px 10px;
+    text-align: center;
+}
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+/* Text meant only for screen readers. */
+.screen-reader-text {
+    clip: rect(1px, 1px, 1px, 1px);
+    position: absolute !important;
+    height: 1px;
+    width: 1px;
+    overflow: hidden;
+}
+
+.screen-reader-text:focus {
+    background-color: #f1f1f1;
+    border-radius: 3px;
+    box-shadow: 0 0 2px 2px rgba(0, 0, 0, 0.6);
+    clip: auto !important;
+    color: #21759b;
+    display: block;
+    font-size: 18px;
+    font-size: 0.875rem;
+    font-weight: bold;
+    height: auto;
+    left: 5px;
+    line-height: normal;
+    padding: 15px 23px 14px;
+    text-decoration: none;
+    top: 5px;
+    width: auto;
+    z-index: 100000; /* Above WP toolbar. */
+}
+.gallery-caption {
+    box-sizing: border-box;
+}
+.bypostauthor{
+    box-sizing: border-box;
+}
+
+fieldset {
+  clear: both;
+  overflow: hidden;
+}
+
+rs-module-wrap{
+    z-index: 0;
+}
+.yith-wcwl-add-button > a > i, .wishlist_table .add_to_cart.button > i {
+    display: none;
+}
+
+.widget-features-box .fbox-content .description {
+	font-size:18px;
+}
+
+.feature-box.media .fbox-content .description{
+	font-size:18px;
+}
+
+#page-id-3217 .apus-breadscrumb .wrapper-breads {
+    min-height: 0px;
+    position: relative;
+}
+
+
+
+@media (max-width: 992px) {
+    .xs-clearfix {
+        clear: both;
+    }
+}
+/* kasun new css */
+.logo{
+	text-align:center;
+}
+/* tab sizes */
+@media only screen and (max-width: 991px) and (min-width: 576px)  {
+	.logo img{
+		max-width:90px;
+	}
+	.header-mobile .fa{
+		font-size: 20px;
+		padding: 10px;
+	}
+}
+	
+@media only screen and (max-width: 1000px) and (min-width: 576px)  {
+	.home_category_sec .kc-elm.kc_column{
+		width: 50% !important;
+	}
+}
+
+body.kc-css-system .kc-css-33152 img {
+	margin-top: -15%;
+	width: 200%;
+	position: absolute;
+	max-width: 1000px;
+	margin-left: -200px;
+}
+.feature-box.media .fbox-content .description,
+.widget-features-box .fbox-content .ourservice-heading,
+.feature-box.media .inner i{
+	color: #000;
+	text-shadow: 3px 2px 2px #fff;
+}
+
+
+@media screen and (max-width: 450px) {
+	body.kc-css-system .kc-css-33152 img{
+		margin-top: 100px;
+	}
+}
+
+@media (max-width: 480px){
+	ul.nav.style1{
+		width:100%;
+	}
+	ul.nav.style1 li{
+		display:block;
+	}
+}
+
+/* justify content */
+.kc-elm.kc-css-498215.kc_text_block p {
+    text-align: justify;
+}
+/* about us image on table */
+@media only screen and (min-width: 991px){
+	.kc-elm.kc_shortcode.kc_single_image img {
+    margin-top: -70px;
+    min-width: 110%;
+}
+}
+@media only screen and (max-width: 991px) and (min-width: 768px)  {
+	.kc-elm.kc_shortcode.kc_single_image {
+    margin: 100px 0px 0px 0px !important;
+}
+}
+@media only screen and (max-width: 768px){
+.kc-elm.kc_shortcode.kc_single_image img {
+    position: absolute;
+}
+}
+@media only screen and (max-width: 500px){
+	.kc-elm.kc_shortcode.kc_single_image img {
+   padding-top: 180px !important;
+}
+}
+.s_links img {
+    max-width: 20px;
+    margin-right: 20px;
+	filter: invert(1);
+}
+.s_links {
+    margin-bottom: 10px;
+}
+@media only screen and (max-width: 768px){
+body.kc-css-system .kc-css-796451 {
+    padding-left: 15px !important;
+}
+}

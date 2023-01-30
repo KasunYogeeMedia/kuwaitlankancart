@@ -1,0 +1,530 @@
+2022-12-19T00:15:29+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T01:18:24+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T01:48:05+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T02:25:46+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T03:53:13+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T04:14:15+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T09:38:04+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T09:41:31+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T10:30:30+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T10:57:35+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T11:06:13+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T11:13:28+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T11:24:09+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T11:35:21+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T12:49:15+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T12:49:16+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T13:07:24+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T13:07:25+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T13:36:08+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T13:36:10+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T14:20:13+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T14:21:56+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T15:28:05+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T15:54:43+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T16:12:23+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T16:40:22+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T16:41:38+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T16:56:38+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T17:02:47+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T17:18:44+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T17:18:50+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T17:31:05+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T18:12:56+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T18:26:12+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T18:28:34+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T18:30:29+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T18:50:50+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T19:12:25+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T19:35:38+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T20:14:24+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T20:31:06+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T20:53:54+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T20:54:29+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T21:10:34+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T21:47:39+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T21:58:31+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T22:09:00+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T22:21:59+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T22:25:47+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T22:42:34+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T22:47:27+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T23:27:35+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+
+2022-12-19T23:43:32+00:00 CRITICAL Uncaught Error: Call to undefined function () in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php:1
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/wp-rocket.php(66): require_once()
+#1 /home/kuwaitlankancart/public_html/wp-settings.php(428): include_once('/home/kuwaitlan...')
+#2 /home/kuwaitlankancart/public_html/wp-config.php(106): require_once('/home/kuwaitlan...')
+#3 /home/kuwaitlankancart/public_html/wp-load.php(50): require_once('/home/kuwaitlan...')
+#4 /home/kuwaitlankancart/public_html/wp-login.php(12): require('/home/kuwaitlan...')
+#5 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-content/plugins/wp-rocket/inc/constants.php on line 1
+

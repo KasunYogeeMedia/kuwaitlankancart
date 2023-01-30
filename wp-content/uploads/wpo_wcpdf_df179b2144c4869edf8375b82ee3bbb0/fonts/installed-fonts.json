@@ -1,0 +1,26 @@
+{
+    "open sans": {
+        "normal": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/OpenSans-Normal",
+        "bold": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/OpenSans-Bold",
+        "italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/OpenSans-Italic",
+        "bold_italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/OpenSans-BoldItalic"
+    },
+    "segoe": {
+        "normal": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/Segoe-Normal",
+        "bold": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/Segoe-Bold",
+        "italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/Segoe-Italic",
+        "bold_italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/Segoe-BoldItalic"
+    },
+    "roboto slab": {
+        "normal": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/RobotoSlab-Normal",
+        "bold": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/RobotoSlab-Bold",
+        "italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/RobotoSlab-Italic",
+        "bold_italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/RobotoSlab-BoldItalic"
+    },
+    "currencies": {
+        "normal": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/currencies",
+        "bold": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/currencies",
+        "italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/currencies",
+        "bold_italic": "\/home\/kuwaitlankancart\/public_html\/wp-content\/uploads\/wpo_wcpdf_df179b2144c4869edf8375b82ee3bbb0\/fonts\/currencies"
+    }
+}

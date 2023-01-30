@@ -1,0 +1,30 @@
+2023-01-29T09:56:58+00:00 CRITICAL Uncaught Error: Call to undefined function IamProgrammerLK\CustomCurrencyForWooCommerce\Wordpress\curl_init() in /home/kuwaitlankancart/public_html/wp-content/plugins/custom-currency-for-woocommerce/Private/Wordpress/PluginPageSettings.php:91
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(307): IamProgrammerLK\CustomCurrencyForWooCommerce\Wordpress\PluginPageSettings->renderPluginUpdateMessage(Array, Object(stdClass))
+#1 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home/kuwaitlankancart/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home/kuwaitlankancart/public_html/wp-admin/includes/update.php(581): do_action('in_plugin_updat...', Array, Object(stdClass))
+#4 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(309): wp_plugin_update_row('custom-currency...', Array)
+#5 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /h in /home/kuwaitlankancart/public_html/wp-content/plugins/custom-currency-for-woocommerce/Private/Wordpress/PluginPageSettings.php on line 91
+
+2023-01-29T09:57:48+00:00 CRITICAL Uncaught Error: Call to undefined function IamProgrammerLK\CustomCurrencyForWooCommerce\Wordpress\curl_init() in /home/kuwaitlankancart/public_html/wp-content/plugins/custom-currency-for-woocommerce/Private/Wordpress/PluginPageSettings.php:91
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(307): IamProgrammerLK\CustomCurrencyForWooCommerce\Wordpress\PluginPageSettings->renderPluginUpdateMessage(Array, Object(stdClass))
+#1 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home/kuwaitlankancart/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home/kuwaitlankancart/public_html/wp-admin/includes/update.php(581): do_action('in_plugin_updat...', Array, Object(stdClass))
+#4 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(309): wp_plugin_update_row('custom-currency...', Array)
+#5 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /h in /home/kuwaitlankancart/public_html/wp-content/plugins/custom-currency-for-woocommerce/Private/Wordpress/PluginPageSettings.php on line 91
+
+2023-01-29T09:58:07+00:00 CRITICAL Uncaught Error: Call to undefined function IamProgrammerLK\CustomCurrencyForWooCommerce\Wordpress\curl_init() in /home/kuwaitlankancart/public_html/wp-content/plugins/custom-currency-for-woocommerce/Private/Wordpress/PluginPageSettings.php:91
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(307): IamProgrammerLK\CustomCurrencyForWooCommerce\Wordpress\PluginPageSettings->renderPluginUpdateMessage(Array, Object(stdClass))
+#1 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#2 /home/kuwaitlankancart/public_html/wp-includes/plugin.php(476): WP_Hook->do_action(Array)
+#3 /home/kuwaitlankancart/public_html/wp-admin/includes/update.php(581): do_action('in_plugin_updat...', Array, Object(stdClass))
+#4 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(309): wp_plugin_update_row('custom-currency...', Array)
+#5 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(331): WP_Hook->apply_filters('', Array)
+#6 /h in /home/kuwaitlankancart/public_html/wp-content/plugins/custom-currency-for-woocommerce/Private/Wordpress/PluginPageSettings.php on line 91
+

@@ -1,0 +1,2 @@
+2022-12-23T12:42:32+00:00 CRITICAL Exception: The PHP GD extension is required, but is not installed. (/home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/lib/Cpdf.php:5813)
+2022-12-23T12:42:51+00:00 CRITICAL Exception: The PHP GD extension is required, but is not installed. (/home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/vendor/dompdf/dompdf/lib/Cpdf.php:5813)

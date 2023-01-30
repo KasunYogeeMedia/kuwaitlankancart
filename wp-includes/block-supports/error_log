@@ -1,0 +1,4 @@
+[23-Dec-2022 01:07:42 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Block_Supports' not found in /home/kuwaitlankancart/public_html/wp-includes/block-supports/spacing.php:83
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/block-supports/spacing.php on line 83

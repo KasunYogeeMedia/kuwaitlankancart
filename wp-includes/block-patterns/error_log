@@ -1,0 +1,24 @@
+[23-Dec-2022 01:06:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-grid-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-grid-posts.php on line 9
+[23-Dec-2022 01:07:05 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-large-title-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-large-title-posts.php on line 9
+[23-Dec-2022 01:07:11 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-medium-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-medium-posts.php on line 9
+[23-Dec-2022 01:07:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-offset-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-offset-posts.php on line 9
+[23-Dec-2022 01:07:24 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-standard-posts.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/query-standard-posts.php on line 9
+[23-Dec-2022 01:07:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function _x() in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/social-links-shared-background-color.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/block-patterns/social-links-shared-background-color.php on line 9

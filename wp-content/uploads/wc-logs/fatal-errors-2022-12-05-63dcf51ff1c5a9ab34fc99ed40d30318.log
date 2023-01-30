@@ -1,0 +1,24 @@
+2022-12-05T15:01:06+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function misha_change_password_strength_2(), 1 passed in /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/kuwaitlankancart/public_html/wp-content/themes/vegan-child/functions.php:15
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(309): misha_change_password_strength_2(false)
+#1 /home/kuwaitlankancart/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(false, Array)
+#2 /home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php(608): apply_filters('woocommerce_get...', false, 'js-cookie')
+#3 /home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php(449): WC_Frontend_Scripts::get_script_data('js-cookie')
+#4 /home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php(616): WC_Frontend_Scripts::localize_script('js-cookie')
+#5  in /home/kuwaitlankancart/public_html/wp-content/themes/vegan-child/functions.php on line 15
+
+2022-12-05T15:01:20+00:00 CRITICAL Uncaught ArgumentCountError: Too few arguments to function misha_change_password_strength_2(), 1 passed in /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php on line 309 and exactly 2 expected in /home/kuwaitlankancart/public_html/wp-content/themes/vegan-child/functions.php:15
+Stack trace:
+#0 /home/kuwaitlankancart/public_html/wp-includes/class-wp-hook.php(309): misha_change_password_strength_2(false)
+#1 /home/kuwaitlankancart/public_html/wp-includes/plugin.php(191): WP_Hook->apply_filters(false, Array)
+#2 /home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php(608): apply_filters('woocommerce_get...', false, 'js-cookie')
+#3 /home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php(449): WC_Frontend_Scripts::get_script_data('js-cookie')
+#4 /home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce/includes/class-wc-frontend-scripts.php(616): WC_Frontend_Scripts::localize_script('js-cookie')
+#5  in /home/kuwaitlankancart/public_html/wp-content/themes/vegan-child/functions.php on line 15
+
+2022-12-05T15:13:02+00:00 CRITICAL syntax error, unexpected end of file in /home/kuwaitlankancart/public_html/wp-content/themes/vegan-child/functions.php on line 60
+
+2022-12-05T15:13:03+00:00 CRITICAL syntax error, unexpected end of file in /home/kuwaitlankancart/public_html/wp-content/themes/vegan-child/functions.php on line 60
+
+2022-12-05T15:13:07+00:00 CRITICAL syntax error, unexpected end of file in /home/kuwaitlankancart/public_html/wp-content/themes/vegan-child/functions.php on line 60
+

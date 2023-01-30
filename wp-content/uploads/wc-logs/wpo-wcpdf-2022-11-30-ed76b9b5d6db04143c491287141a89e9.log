@@ -1,0 +1,4 @@
+2022-11-30T05:47:17+00:00 CRITICAL Unable to create folder /home/kuwaitlankancart/public_html/wp-content/uploads/wpo_wcpdf/attachments/
+2022-11-30T05:47:37+00:00 INFO Template setting migrated from /home/kuwaitlankancart/public_html/wp-content/plugins/woocommerce-pdf-invoices-packing-slips/templates/Simple to default/Simple
+2022-11-30T05:47:43+00:00 CRITICAL Table 'kuwaitlankancart_vegan.wp_wcpdf_invoice_number' doesn't exist
+2022-11-30T05:52:05+00:00 CRITICAL Table 'kuwaitlankancart_vegan.wp_wcpdf_packing_slip_number' doesn't exist

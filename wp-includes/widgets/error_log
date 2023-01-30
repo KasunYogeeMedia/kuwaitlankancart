@@ -1,0 +1,141 @@
+[17-Sep-2022 12:02:41 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Sep-2022 09:15:46 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[18-Sep-2022 11:02:32 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Sep-2022 23:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Oct-2022 01:05:31 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Oct-2022 21:56:11 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[04-Oct-2022 11:14:08 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[08-Oct-2022 05:54:39 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Oct-2022 11:49:16 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Oct-2022 10:46:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Oct-2022 13:16:55 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Oct-2022 07:11:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Oct-2022 15:35:54 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Oct-2022 20:08:21 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[28-Oct-2022 10:36:51 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2022 00:46:19 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Oct-2022 05:12:59 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[31-Oct-2022 13:12:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Nov-2022 21:12:24 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Nov-2022 03:55:10 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[07-Nov-2022 18:58:29 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[10-Nov-2022 05:46:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[12-Nov-2022 20:42:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 05:16:47 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[16-Nov-2022 05:51:13 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Nov-2022 08:25:25 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[17-Nov-2022 21:45:23 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[24-Nov-2022 20:16:57 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[26-Nov-2022 20:44:15 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[27-Nov-2022 21:29:22 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[29-Nov-2022 18:18:18 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[30-Nov-2022 08:02:44 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Dec-2022 16:19:12 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[01-Dec-2022 23:15:28 UTC] PHP Fatal error:  Uncaught Error: Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-tag-cloud.php on line 17
+[23-Dec-2022 19:15:26 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[05-Jan-2023 07:16:51 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[06-Jan-2023 06:13:21 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[14-Jan-2023 16:32:26 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
+[19-Jan-2023 22:27:05 UTC] PHP Fatal error:  Class 'WP_Widget' not found in /home/kuwaitlankancart/public_html/wp-includes/widgets/class-wp-widget-block.php on line 17
